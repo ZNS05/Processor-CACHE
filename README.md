@@ -1,13 +1,12 @@
 # Processor-CACHE
 Disabling the processor CACHE
-
 ------------------------------------
+
 Device Characteristics: 
 • Processor – Intel Celeron N3050; 
 • RAM – DDR3 8 GB; 
 • HARD drive – 512 GB; 
 • Operating system – Linux mint;
-------------------------------------
 
 Disabling the processor CACHE was carried out through the operating system kernel settings. Basic commands for using the Linux OS kernel:
 • insmod: 
